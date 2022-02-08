@@ -200,7 +200,7 @@ li a:focus {
 }
 .contact-us {
   color: rgb(255, 255, 255);
-  background-image: url("assets/images/terrah-holly-pmhdkgRCbtE-unsplash.jpg");
+  background-image: url("/assets/images/terrah-holly-pmhdkgRCbtE-unsplash.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   height: 690px;
