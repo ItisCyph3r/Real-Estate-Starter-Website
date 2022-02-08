@@ -8,7 +8,7 @@ body {
   font-weight: lighter;
 }
 .header-sect {
-  background-image: url("assets/images/dublin-g509f5d836_1920.jpg");
+  background-image: url("/assets/images/dublin-g509f5d836_1920.jpg");
   background-size: cover;
   background-attachment: fixed;
 }
